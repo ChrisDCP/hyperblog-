@@ -39,12 +39,16 @@ body
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
 
 }
 
-#container 
+#container #verso
 {
-font-size: 24px;
+font-size: 20px;
+font-weight: bolder;
+text-align: start;
+color: black;
+
 }
