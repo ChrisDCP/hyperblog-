@@ -52,3 +52,11 @@ text-align: start;
 color: black;
 
 }
+
+#footer
+{
+    background: gray;
+    text-align: center;
+    color: white;
+    padding: 0.05em;
+}
